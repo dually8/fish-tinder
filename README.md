@@ -2,6 +2,8 @@
 
 This is just to mess around with react native, but I welcome PRs and whatnot. :)
 
+![](./demo.gif)
+
 ## Table of Contents
 
 - [Requirements](#requirements)
