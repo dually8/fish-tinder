@@ -5,6 +5,6 @@
  */
 import { AppRegistry, } from 'react-native';
 
-import setup from './js/setup';
+import App from './js/App';
 
-AppRegistry.registerComponent('FishTinder', setup);
+AppRegistry.registerComponent('FishTinder', () => App);
