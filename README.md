@@ -23,3 +23,7 @@ This is just to mess around with react native, but I welcome PRs and whatnot. :)
 - [ ] Add Redux/Flux
 - [ ] Add service to get fish
 - [ ] ???
+
+## Goals
+
+I basically want to make a fake clone of tinder for the sole purpose of finding fish in your area.
